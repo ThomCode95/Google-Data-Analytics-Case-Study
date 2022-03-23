@@ -9,3 +9,5 @@ The data is in the data folder. It contains the  the clean data and the merged d
 The code of the project and the R Markdown file are included, so is the HTML and PDF of the Case Study report.
 
 To use the project you can download the R code and the merged dataset to try it yourself.
+
+Contributions are not allowed, but you are still welcome to download the project and try it out.
